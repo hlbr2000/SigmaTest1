@@ -9,7 +9,10 @@
     <Grid>
         <StackPanel>
         <Label Content="Label Test 1006" HorizontalAlignment="Left"  VerticalAlignment="Top" />
-            <Label Content="Label Added by Doug - Dec 24, 2018 - 20:54"/>
+        <Label Content="Label Added by Doug - Dec 24, 2018 - 20:54"/>
+        
+    
+        <Label Content="Label Added by HV - Dec 28, 2018"/>
         </StackPanel>
     </Grid>
 </Window>
